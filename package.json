@@ -1,0 +1,29 @@
+{
+  "name": "mean-ng7",
+  "version": "1.0.0",
+  "description": "MEAN Stack Angular 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohBareche/MEAN-Stack-ng7.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular7"
+  ],
+  "author": "M.Barèche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohBareche/MEAN-Stack-ng7/issues"
+  },
+  "homepage": "https://github.com/MohBareche/MEAN-Stack-ng7#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
